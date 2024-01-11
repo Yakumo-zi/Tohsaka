@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/yakumo/code/projects/Tohsaka",
+    "clangd.fallbackFlags": [
+        "-I${workspaceFolder}/include",
+    ],
+}
